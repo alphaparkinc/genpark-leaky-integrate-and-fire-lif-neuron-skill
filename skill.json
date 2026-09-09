@@ -1,0 +1,13 @@
+{
+  "name": "genpark-leaky-integrate-and-fire-lif-neuron-skill",
+  "version": "1.0.0",
+  "description": "Biological Leaky Integrate-and-Fire (LIF) neuromorphic simulator with membrane potential dynamics, refractory period, and discrete event spike emission.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "neuromorphic",
+    "spiking-neural-network",
+    "lif-neuron",
+    "computational-neuroscience"
+  ]
+}
